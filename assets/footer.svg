@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
+  <defs><linearGradient id="l"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+  <rect width="1200" height="130" rx="18" fill="#050816"/>
+  <path d="M0 95 Q150 35 300 95 T600 95 T900 95 T1200 95" fill="none" stroke="url(#l)" stroke-width="3" opacity=".7"><animateTransform attributeName="transform" type="translate" values="-300 0;0 0" dur="4s" repeatCount="indefinite"/></path>
+  <text x="600" y="52" text-anchor="middle" fill="#e2e8f0" font-family="JetBrains Mono,Segoe UI,monospace" font-size="20">Let's build something awesome.</text>
+  <text x="600" y="80" text-anchor="middle" fill="#8b5cf6" font-family="JetBrains Mono,Segoe UI,monospace" font-size="13">Thanks for visiting • Come back soon</text>
+</svg>
