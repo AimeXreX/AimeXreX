@@ -66,91 +66,161 @@ class AimeXreX:
 ## `> پروژه‌ها --list`
 
 <div align="center">
-
 <sub><b>🛡️ اکوسیستم VPN</b></sub>
-
 </div>
 
-**[vpn-commerce-platform](https://github.com/AimeXreX/vpn-commerce-platform)** — فروشگاه VPN + بات تلگرام + Mini App، با پرداخت کارت‌به‌کارت و NOWPayments و تحویل خودکار از پنل 3x-ui
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square&logo=node.js&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square) ![Recommended](https://img.shields.io/badge/recommended-a78bfa?style=flat-square)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**[vpn-storefront](https://github.com/AimeXreX/vpn-storefront)** — نسخه‌ی اول و تک‌کاناله همان فروشگاه (فقط وب)؛ پایه‌ی ساخت `vpn-commerce-platform`
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square&logo=node.js&logoColor=white) ![Maintained](https://img.shields.io/badge/maintained-38bdf8?style=flat-square)
+**🔓 [vpn-commerce-platform](https://github.com/AimeXreX/vpn-commerce-platform)**
+<br/>فروشگاه VPN + بات تلگرام + Mini App، با پرداخت کارت‌به‌کارت و NOWPayments و تحویل خودکار از پنل 3x-ui
+<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-070b18?style=flat-square&logo=node.js&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&logoColor=22c55e&logo=checkmarx&color=22c55e) ![Recommended](https://img.shields.io/badge/recommended-070b18?style=flat-square&color=a78bfa)
 
-**[vpn-telegram-bot](https://github.com/AimeXreX/vpn-telegram-bot)** — بات تلگرامی فروش و مدیریت اشتراک VPN، با پنل ادمین و کاربر مجزا
-<br/>
-![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-7c3aed?style=flat-square&logo=telegram&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square)
+</td>
+<td width="50%" valign="top">
 
-**[prosys-vpn-android](https://github.com/AimeXreX/prosys-vpn-android)** — اپلیکیشن اندروید VPN با backend مستقل برای سرویس رایگان
-<br/>
-![Android](https://img.shields.io/badge/Android-7c3aed?style=flat-square&logo=android&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-7c3aed?style=flat-square&logo=node.js&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square)
+**🔒 [vpn-storefront](https://github.com/AimeXreX/vpn-storefront)**
+<br/>نسخه‌ی اول و تک‌کاناله همان فروشگاه (فقط وب)؛ پایه‌ی ساخت `vpn-commerce-platform`
+<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-070b18?style=flat-square&logo=node.js&logoColor=7c3aed) ![Maintained](https://img.shields.io/badge/maintained-070b18?style=flat-square&color=38bdf8)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔒 [vpn-telegram-bot](https://github.com/AimeXreX/vpn-telegram-bot)**
+<br/>بات تلگرامی فروش و مدیریت اشتراک VPN، با پنل ادمین و کاربر مجزا
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-070b18?style=flat-square&logo=python&logoColor=7c3aed) ![Telegram](https://img.shields.io/badge/Telegram-070b18?style=flat-square&logo=telegram&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&color=22c55e)
+
+</td>
+<td width="50%" valign="top">
+
+**🔓 [prosys-vpn-android](https://github.com/AimeXreX/prosys-vpn-android)**
+<br/>اپلیکیشن اندروید VPN با backend مستقل برای سرویس رایگان
+<br/><br/>
+![Android](https://img.shields.io/badge/Android-070b18?style=flat-square&logo=android&logoColor=7c3aed) ![Node.js](https://img.shields.io/badge/Node.js-070b18?style=flat-square&logo=node.js&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&color=22c55e)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-
 <sub><b>🤖 بات‌ها و ابزارها</b></sub>
-
 </div>
 
-**[telegram-playlist-bot](https://github.com/AimeXreX/telegram-playlist-bot)** — بات تلگرامی مدیریت و پخش پلی‌لیست
-<br/>
-![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-7c3aed?style=flat-square&logo=telegram&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**[instagram-downloader](https://github.com/AimeXreX/instagram-downloader)** — ابزار دانلود محتوای اینستاگرام
-<br/>
-![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square)
+**🔒 [telegram-playlist-bot](https://github.com/AimeXreX/telegram-playlist-bot)**
+<br/>بات تلگرامی مدیریت و پخش پلی‌لیست
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-070b18?style=flat-square&logo=python&logoColor=7c3aed) ![Telegram](https://img.shields.io/badge/Telegram-070b18?style=flat-square&logo=telegram&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&color=22c55e)
 
-**[prosys-gaming-optimizer](https://github.com/AimeXreX/prosys-gaming-optimizer)** — ابزار بهینه‌سازی سیستم برای گیمینگ
-<br/>
-![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square)
+</td>
+<td width="50%" valign="top">
 
-**[magma-osint](https://github.com/AimeXreX/magma-osint)** — ابزار OSINT؛ به‌دلیل داده‌های حساس خصوصی نگه داشته می‌شود
-<br/>
-![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white) ![Private](https://img.shields.io/badge/private-db2777?style=flat-square)
+**🔒 [instagram-downloader](https://github.com/AimeXreX/instagram-downloader)**
+<br/>ابزار دانلود محتوای اینستاگرام
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-070b18?style=flat-square&logo=python&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&color=22c55e)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔓 [prosys-gaming-optimizer](https://github.com/AimeXreX/prosys-gaming-optimizer)**
+<br/>ابزار بهینه‌سازی سیستم برای گیمینگ
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-070b18?style=flat-square&logo=python&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&color=22c55e)
+
+</td>
+<td width="50%" valign="top">
+
+**🔒 [magma-osint](https://github.com/AimeXreX/magma-osint)**
+<br/>ابزار OSINT؛ به‌دلیل داده‌های حساس خصوصی نگه داشته می‌شود
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-070b18?style=flat-square&logo=python&logoColor=7c3aed) ![Private](https://img.shields.io/badge/private-070b18?style=flat-square&color=db2777)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-
 <sub><b>🌐 وب و مدیریت</b></sub>
-
 </div>
 
-**[prosystem-django](https://github.com/AimeXreX/prosystem-django)** — سایت شرکتی + سرویس پروکسی روی Django؛ به‌تازگی به یک پروژه‌ی کاملاً قابل اجرا بازسازی شده
-<br/>
-![Django](https://img.shields.io/badge/Django-7c3aed?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-7c3aed?style=flat-square&logo=docker&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**[gym-management](https://github.com/AimeXreX/gym-management)** — سیستم مدیریت باشگاه بدنسازی
-<br/>
-![PHP](https://img.shields.io/badge/PHP-7c3aed?style=flat-square&logo=php&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square)
+**🔒 [prosystem-django](https://github.com/AimeXreX/prosystem-django)**
+<br/>سایت شرکتی + سرویس پروکسی روی Django؛ به‌تازگی به یک پروژه‌ی کاملاً قابل اجرا بازسازی شده
+<br/><br/>
+![Django](https://img.shields.io/badge/Django-070b18?style=flat-square&logo=django&logoColor=7c3aed) ![Docker](https://img.shields.io/badge/Docker-070b18?style=flat-square&logo=docker&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&color=22c55e)
 
-**[mira-cafe](https://github.com/AimeXreX/mira-cafe)** — سایت/سیستم مدیریت کافه
-<br/>
-![PHP](https://img.shields.io/badge/PHP-7c3aed?style=flat-square&logo=php&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square)
+</td>
+<td width="50%" valign="top">
 
-**[aimexrex-web](https://github.com/AimeXreX/aimexrex-web)** — وب‌سایت شخصی
-<br/>
-![Web](https://img.shields.io/badge/Web-7c3aed?style=flat-square&logo=javascript&logoColor=white) ![Active](https://img.shields.io/badge/active-22c55e?style=flat-square)
+**🔓 [gym-management](https://github.com/AimeXreX/gym-management)**
+<br/>سیستم مدیریت باشگاه بدنسازی (Laravel + Livewire، چندمستأجری)
+<br/><br/>
+![PHP](https://img.shields.io/badge/PHP-070b18?style=flat-square&logo=php&logoColor=7c3aed) ![Laravel](https://img.shields.io/badge/Laravel-070b18?style=flat-square&logo=laravel&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&color=22c55e)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔓 [mira-cafe](https://github.com/AimeXreX/mira-cafe)**
+<br/>منوی دیجیتال کافه با پنل مدیریت امن
+<br/><br/>
+![PHP](https://img.shields.io/badge/PHP-070b18?style=flat-square&logo=php&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&color=22c55e)
+
+</td>
+<td width="50%" valign="top">
+
+**🔒 [aimexrex-web](https://github.com/AimeXreX/aimexrex-web)**
+<br/>وب‌سایت و پورتفولیو شخصی (React + Cloudflare)
+<br/><br/>
+![React](https://img.shields.io/badge/React-070b18?style=flat-square&logo=react&logoColor=7c3aed) ![Cloudflare](https://img.shields.io/badge/Cloudflare-070b18?style=flat-square&logo=cloudflare&logoColor=7c3aed) ![Active](https://img.shields.io/badge/active-070b18?style=flat-square&color=22c55e)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub><b>🗄️ آرشیو و مرجع</b></sub>
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔒 [linkopia](https://github.com/AimeXreX/Linkopia)**
+<br/>صفحه‌ی لینک/معرفی؛ کد اصلی بات‌ها در `instagram-downloader` و `telegram-playlist-bot` است
+<br/><br/>
+![Archived](https://img.shields.io/badge/archived-070b18?style=flat-square&color=6b7280)
+
+</td>
+<td width="50%" valign="top">
+
+**🔒 [prosys-web-legacy](https://github.com/AimeXreX/prosys-web-legacy)**
+<br/>نسخه‌ی قدیمی سایت ProSyS (Django)
+<br/><br/>
+![Django](https://img.shields.io/badge/Django-070b18?style=flat-square&logo=django&logoColor=7c3aed) ![Archived](https://img.shields.io/badge/archived-070b18?style=flat-square&color=6b7280)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<sub><b>🗄️ آرشیو و مرجع</b></sub>
+<sub>🔓 عمومی &nbsp;·&nbsp; 🔒 خصوصی &nbsp;·&nbsp; وضعیت‌ها برآوردی و بر اساس آخرین بررسی این پروژه‌ها هستند</sub>
 
 </div>
-
-**[linkopia](https://github.com/AimeXreX/Linkopia)** — صفحه‌ی لینک/معرفی؛ کد اصلی بات‌ها در `instagram-downloader` و `telegram-playlist-bot` است
-<br/>
-![Archived](https://img.shields.io/badge/archived-6b7280?style=flat-square)
-
-**[prosys-web-legacy](https://github.com/AimeXreX/prosys-web-legacy)** — نسخه‌ی قدیمی سایت ProSyS
-<br/>
-![Web](https://img.shields.io/badge/Web-7c3aed?style=flat-square&logo=html5&logoColor=white) ![Archived](https://img.shields.io/badge/archived-6b7280?style=flat-square)
-
-<br/>
-
-> وضعیت‌ها برآوردی و بر اساس آخرین بررسی این پروژه‌ها هستند؛ برای جزئیات دقیق هر پروژه به README خودش مراجعه کنید.
