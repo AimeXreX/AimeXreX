@@ -60,3 +60,27 @@ class AimeXreX:
 <br/>
 
 <img width="100%" src="./assets/footer.svg" alt="Animated footer" />
+
+---
+
+## `> پروژه‌ها`
+
+| پروژه | توضیح | استک | وضعیت |
+|---|---|---|---|
+| [vpn-commerce-platform](https://github.com/AimeXreX/vpn-commerce-platform) | فروشگاه VPN + بات تلگرام + Mini App، با پرداخت کارت‌به‌کارت و NOWPayments و تحویل خودکار از پنل 3x-ui | Node.js | فعال (نسخه‌ی توسعه‌یافته و پیشنهادی) |
+| [vpn-storefront](https://github.com/AimeXreX/vpn-storefront) | نسخه‌ی اول و تک‌کاناله همان فروشگاه VPN (فقط وب)، پایه‌ی ساخت vpn-commerce-platform | Node.js | نگه‌داری می‌شود (کد پایه برای نسخه فعال) |
+| [vpn-telegram-bot](https://github.com/AimeXreX/vpn-telegram-bot) | بات تلگرامی فروش و مدیریت اشتراک VPN با پنل ادمین و کاربر مجزا | Python (Telegram Bot) | فعال |
+| [prosys-vpn-android](https://github.com/AimeXreX/prosys-vpn-android) | اپلیکیشن اندروید VPN با backend مستقل برای سرویس رایگان | Android / Node.js backend | فعال |
+| [prosystem-django](https://github.com/AimeXreX/prosystem-django) | سایت شرکتی + سرویس پروکسی روی Django، به‌تازگی به یک پروژه‌ی کاملاً قابل اجرا بازسازی شده | Django / PostgreSQL / Docker | فعال |
+| [prosys-gaming-optimizer](https://github.com/AimeXreX/prosys-gaming-optimizer) | ابزار بهینه‌سازی سیستم برای گیمینگ | Python | فعال |
+| [instagram-downloader](https://github.com/AimeXreX/instagram-downloader) | ابزار دانلود محتوای اینستاگرام | Python | فعال |
+| [telegram-playlist-bot](https://github.com/AimeXreX/telegram-playlist-bot) | بات تلگرامی مدیریت و پخش پلی‌لیست | Python (Telegram Bot) | فعال |
+| [magma-osint](https://github.com/AimeXreX/magma-osint) | ابزار OSINT؛ به‌دلیل داده‌های حساس خصوصی نگه داشته می‌شود | Python | خصوصی/فعال |
+| [gym-management](https://github.com/AimeXreX/gym-management) | سیستم مدیریت باشگاه بدنسازی | — | فعال |
+| [mira-cafe](https://github.com/AimeXreX/mira-cafe) | سایت/سیستم مدیریت کافه | — | فعال |
+| [aimexrex-web](https://github.com/AimeXreX/aimexrex-web) | وب‌سایت شخصی | Web | فعال |
+| [linkopia](https://github.com/AimeXreX/Linkopia) | صفحه‌ی لینک/معرفی؛ کد اصلی بات‌ها در instagram-downloader و telegram-playlist-bot است | — | آرشیو/مرجع |
+| [prosys-web-legacy](https://github.com/AimeXreX/prosys-web-legacy) | نسخه‌ی قدیمی سایت ProSyS | Web | آرشیو/قدیمی |
+| [AimeXreX](https://github.com/AimeXreX/AimeXreX) | همین ریپو — پروفایل گیت‌هاب | Markdown | فعال |
+
+> وضعیت‌ها برآوردی و بر اساس آخرین بررسی این پروژه‌ها هستند؛ برای جزئیات دقیق هر پروژه به README خودش مراجعه کنید.
